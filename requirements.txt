@@ -1,0 +1,11 @@
+numpy
+pandas
+pydantic
+pypi-json
+requests
+fastapi
+sklearn
+scikit-learn
+click
+uvicorn
+importlib-metadata
